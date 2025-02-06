@@ -1,4 +1,4 @@
 function sum(a, b) {
     return a + b;
 };
-console.log(sum(10, 56))
+console.log(sum(40, 15))

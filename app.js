@@ -9,7 +9,13 @@ function sub(a, b) {
 }
 console.log(sub(40, 15))
 
+<<<<<<< HEAD
 function mul(a, b) {
     return a * b;
 }
 console.log(mul(40, 15))
+=======
+function diff(a, b) {
+    return a * b;
+}
+>>>>>>> feature2

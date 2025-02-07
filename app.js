@@ -8,3 +8,7 @@ function sub(a, b) {
     return a - b;
 }
 console.log(sub(40, 15))
+
+function diff(a, b) {
+    return a * b;
+}
